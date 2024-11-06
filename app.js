@@ -1,2 +1,2 @@
-// add a new button
-let a = 10l
+// add a new buttongit
+let a = 10;
